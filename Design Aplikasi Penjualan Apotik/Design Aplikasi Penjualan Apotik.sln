@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Design Aplikasi Penjualan Apotik", "Design Aplikasi Penjualan Apotik.vbproj", "{E336A4D5-4F56-401F-930A-BE96F99A3D54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E336A4D5-4F56-401F-930A-BE96F99A3D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E336A4D5-4F56-401F-930A-BE96F99A3D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E336A4D5-4F56-401F-930A-BE96F99A3D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E336A4D5-4F56-401F-930A-BE96F99A3D54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECB823E2-469B-4C6E-869A-04F4D65CC58D}
+	EndGlobalSection
+EndGlobal

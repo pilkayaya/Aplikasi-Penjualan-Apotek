@@ -1,0 +1,200 @@
+C:\Users\win10\Downloads\Design Aplikasi Penjualan Apotik\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.vbproj.AssemblyReference.cache
+C:\Users\win10\Downloads\Design Aplikasi Penjualan Apotik\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.vbproj.SuggestedBindingRedirects.cache
+C:\Users\win10\Downloads\Design Aplikasi Penjualan Apotik\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Cari_Customer.resources
+C:\Users\win10\Downloads\Design Aplikasi Penjualan Apotik\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Penjualan.resources
+C:\Users\win10\Downloads\Design Aplikasi Penjualan Apotik\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Cari.resources
+C:\Users\win10\Downloads\Design Aplikasi Penjualan Apotik\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Cari_Supplier.resources
+C:\Users\win10\Downloads\Design Aplikasi Penjualan Apotik\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Customer.resources
+C:\Users\win10\Downloads\Design Aplikasi Penjualan Apotik\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Point_Transaksi.resources
+C:\Users\win10\Downloads\Design Aplikasi Penjualan Apotik\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Resep.resources
+C:\Users\win10\Downloads\Design Aplikasi Penjualan Apotik\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Stock.resources
+C:\Users\win10\Downloads\Design Aplikasi Penjualan Apotik\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Data_Pembelian.resources
+C:\Users\win10\Downloads\Design Aplikasi Penjualan Apotik\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Menu.resources
+C:\Users\win10\Downloads\Design Aplikasi Penjualan Apotik\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Resources.resources
+C:\Users\win10\Downloads\Design Aplikasi Penjualan Apotik\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Supplier.resources
+C:\Users\win10\Downloads\Design Aplikasi Penjualan Apotik\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.vbproj.GenerateResource.cache
+C:\Users\win10\Downloads\Design Aplikasi Penjualan Apotik\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.vbproj.CoreCompileInputs.cache
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.vbproj.AssemblyReference.cache
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.vbproj.SuggestedBindingRedirects.cache
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Customer.resources
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Poin.resources
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Point_Transaksi.resources
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Stok.resources
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Resources.resources
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Supplier.resources
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.vbproj.GenerateResource.cache
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.vbproj.CoreCompileInputs.cache
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\Design Aplikasi Penjualan Apotik.exe.config
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\Design Aplikasi Penjualan Apotik.exe
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\Design Aplikasi Penjualan Apotik.pdb
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\Design Aplikasi Penjualan Apotik.xml
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.exe
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.xml
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.pdb
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListCustomer.resources
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListStok.resources
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListSupplier.resources
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.mdiMenu.resources
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Login.resources
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Dokter.resources
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListDokter.resources
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListMember.resources
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Member.resources
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Penjualan_NonResep.resources
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Penjualan_Resep.resources
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Pembelian.resources
+C:\Users\win10\Downloads\Tugas UAS apk\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListBeli.resources
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\Design Aplikasi Penjualan Apotik.exe.config
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\Design Aplikasi Penjualan Apotik.exe
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\Design Aplikasi Penjualan Apotik.pdb
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\Design Aplikasi Penjualan Apotik.xml
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.vbproj.AssemblyReference.cache
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.vbproj.SuggestedBindingRedirects.cache
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Customer.resources
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListBeli.resources
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListCustomer.resources
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListDokter.resources
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListMember.resources
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListStok.resources
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListSupplier.resources
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Login.resources
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Member.resources
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Penjualan_Resep.resources
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Pembelian.resources
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Dokter.resources
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Stok.resources
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.mdiMenu.resources
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Resources.resources
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Supplier.resources
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.vbproj.GenerateResource.cache
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.vbproj.CoreCompileInputs.cache
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.exe
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.xml
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.pdb
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.PenjualanNonResep.resources
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.SettingPoin.resources
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.User.resources
+C:\Users\win10\Downloads\Apk terbaruu\Apk terbaru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.JualNonResep.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\Design Aplikasi Penjualan Apotik.exe.config
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\Design Aplikasi Penjualan Apotik.exe
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\Design Aplikasi Penjualan Apotik.pdb
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\Design Aplikasi Penjualan Apotik.xml
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.vbproj.AssemblyReference.cache
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.vbproj.SuggestedBindingRedirects.cache
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Customer.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.JualNonResep.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListBeli.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListCustomer.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListDokter.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListJualNonResep.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListMember.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListStok.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListSupplier.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Login.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Member.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Pembelian.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.SettingPoin.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Dokter.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Stok.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.mdiMenu.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Resources.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Supplier.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.User.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.vbproj.GenerateResource.cache
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.vbproj.CoreCompileInputs.cache
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.exe
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.xml
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.pdb
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListPenjualanResep.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.PenjualanResep.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\EnvDTE.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\stdole.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.LaporanUser.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.vbproj.CopyComplete
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.LaporanStok.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.LaporanDokter.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.LaporanSupplier.resources
+C:\Users\win10\Downloads\Apk Baru\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.LaporanCustomer.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.vbproj.AssemblyReference.cache
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.vbproj.SuggestedBindingRedirects.cache
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Customer.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.JualNonResep.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.LaporanCustomer.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.LaporanDokter.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.LaporanStok.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.LaporanSupplier.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.LaporanUser.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListBeli.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListCustomer.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListDokter.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListJualNonResep.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListMember.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListPenjualanResep.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListStok.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.ListSupplier.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Login.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Member.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.PenjualanResep.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Pembelian.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.SettingPoin.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Dokter.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Stok.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.mdiMenu.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Resources.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.Supplier.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design_Aplikasi_Penjualan_Apotik.User.resources
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.vbproj.GenerateResource.cache
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.vbproj.CoreCompileInputs.cache
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.exe
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.xml
+C:\Users\win10\OneDrive\Documents\Semester 2\Project UAS Aplikasi\APLIKASI UAS TERAKHIR\Design Aplikasi Penjualan Apotik Terbaru\Design Aplikasi Penjualan Apotik\obj\Debug\Design Aplikasi Penjualan Apotik.pdb

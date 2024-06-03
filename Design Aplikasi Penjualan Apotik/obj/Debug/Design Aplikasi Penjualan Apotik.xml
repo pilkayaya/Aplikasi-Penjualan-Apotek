@@ -1,0 +1,331 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Design Aplikasi Penjualan Apotik
+</name>
+</assembly>
+<members>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Design_Aplikasi_Penjualan_Apotik.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Design_Aplikasi_Penjualan_Apotik.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.akunDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.beliDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.beli_detailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.setting_poinDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_customerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_detailjualnonresepDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_detailjualresepDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_dokterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_jualnonresepDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_jualresepDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_memberDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_stokDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_supplierDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.akunRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.beliRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.beli_detailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.setting_poinRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_customerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_detailjualnonresepRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_detailjualresepRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_dokterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_jualnonresepRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_jualresepRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_memberRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_stokRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_supplierRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.akunRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.beliRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.beli_detailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.setting_poinRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_customerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_detailjualnonresepRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_detailjualresepRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_dokterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_jualnonresepRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_jualresepRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_memberRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_stokRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet.tbl_supplierRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSetTableAdapters.akunTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSetTableAdapters.beliTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSetTableAdapters.beli_detailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSetTableAdapters.setting_poinTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSetTableAdapters.tbl_customerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSetTableAdapters.tbl_detailjualnonresepTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSetTableAdapters.tbl_detailjualresepTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSetTableAdapters.tbl_dokterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSetTableAdapters.tbl_jualnonresepTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSetTableAdapters.tbl_jualresepTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSetTableAdapters.tbl_memberTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSetTableAdapters.tbl_stokTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSetTableAdapters.tbl_supplierTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSetTableAdapters.TableAdapterManager.UpdateAll(Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Design_Aplikasi_Penjualan_Apotik.AplikasiPenjualanDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
